@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.createUser{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+border: 2em;
+border-color: black;
+background-color: coral;
+}
+.loginUser{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 200px;
+border: 2em;
+margin: 10px;
+border-color: black;
+background-color: gray;
+}
